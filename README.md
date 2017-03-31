@@ -55,6 +55,7 @@ The editrights tools is provided as part of git-repo for Microsoft Windows.
 
     mkdir ~/bin
     curl https://raw.githubusercontent.com/esrlabs/git-repo/stable/repo > ~/bin/repo
+    chmod +x ~/bin/repo
     curl https://raw.githubusercontent.com/esrlabs/git-repo/stable/repo.cmd > ~/bin/repo.cmd
 
 * Add Repo to your path environment variable: %USERPROFILE%\bin;
